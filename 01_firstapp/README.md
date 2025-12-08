@@ -2,7 +2,7 @@
 - No SEO
 - No Inbuild Routing
 - Bad performance
-- App.jsx => ka parent--  main.jsx
+- App.jsx => ka parent--- main.jsx
 
 # Nextjs
 - SSR (Server Side Rendering)
@@ -12,4 +12,4 @@
 - Better SEO
 - Inbuilt Routing
 - BackEnd Support
-- page.jsx => ka parent--  layout.jsx
+- page.jsx => ka parent--- layout.jsx

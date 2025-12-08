@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Basic Nextjs",
+  title: "Nextjs Setup",
   description: "nextjs project setup",
 };
 
